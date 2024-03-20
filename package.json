@@ -1,0 +1,16 @@
+{
+  "name": "bee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "bee-history": "node app.js"
+  },
+  "type": "module",
+  "author": "Ivan Horobets",
+  "license": "MIT",
+  "dependencies": {
+    "promise": "^8.1.0",
+    "readline": "^1.3.0"
+  }
+}
